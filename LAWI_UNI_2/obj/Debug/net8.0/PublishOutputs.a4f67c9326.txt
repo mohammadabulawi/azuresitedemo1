@@ -1,0 +1,13 @@
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Debug\net8.0\PubTmp\Out\LAWI_UNI_2.exe
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Debug\net8.0\PubTmp\Out\appsettings.Prod.json
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Debug\net8.0\PubTmp\Out\appsettings.QA.json
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Debug\net8.0\PubTmp\Out\LAWI_UNI_2.dll
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Debug\net8.0\PubTmp\Out\LAWI_UNI_2.deps.json
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Debug\net8.0\PubTmp\Out\LAWI_UNI_2.runtimeconfig.json
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Debug\net8.0\PubTmp\Out\LAWI_UNI_2.pdb
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

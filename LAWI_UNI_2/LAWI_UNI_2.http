@@ -1,0 +1,6 @@
+@LAWI_UNI_2_HostAddress = http://localhost:5256
+
+GET {{LAWI_UNI_2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
