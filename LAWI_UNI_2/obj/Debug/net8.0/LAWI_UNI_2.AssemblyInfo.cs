@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LAWI_UNI_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36eec7cfdd95cebb55d392cf1052c8e351436841")]
 [assembly: System.Reflection.AssemblyProductAttribute("LAWI_UNI_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LAWI_UNI_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

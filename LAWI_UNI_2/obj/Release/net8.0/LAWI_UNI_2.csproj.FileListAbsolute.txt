@@ -32,3 +32,4 @@ C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Release\net8.0\LAWI_UNI_2.genruntimeconfig
 C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Release\net8.0\ref\LAWI_UNI_2.dll
 C:\Projects\LAWI_UNI_2\LAWI_UNI_2\bin\Release\net8.0\appsettings.Prod.json
 C:\Projects\LAWI_UNI_2\LAWI_UNI_2\bin\Release\net8.0\appsettings.QA.json
+C:\Projects\LAWI_UNI_2\LAWI_UNI_2\obj\Release\net8.0\LAWI_UNI_2.sourcelink.json
